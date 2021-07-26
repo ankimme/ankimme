@@ -1,7 +1,8 @@
-- 👦 Andrea Chimenti
+- 👦 Andrea Chimenti, 22
 - 🏫 Faculty of Information Technology, Brno University of Technology
-- 👀 Interested in .NET Core, Python, Maths, Psychology, Swimming
-- 🌱 Learning Haskell
+- 👀 Interested in .NET Core, Python, Networking, Maths, Psychology, Swimming, Healthy lifestyle
+- 🌱 Learning F#
+- 📖 Reading How Emotions Are Made by Lisa Feldman Barrett
 
 
 <!---
