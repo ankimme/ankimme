@@ -1,6 +1,6 @@
 - 👦 Andrea Chimenti, 22
 - 🏫 Faculty of Information Technology, Brno University of Technology
-- 👀 Interested in Data analysis, Psychology, Any type of physical activity, Cooking
+- 👀 Interested in Data analysis, Psychology, Swimming, Cooking
 - 🌱 Learning basics of Data science, Social science and Theoretical computer science
 - 📖 Reading Šikmý kostel by Karin Lednická
 
