@@ -1,8 +1,8 @@
-- 👦 Andrea Chimenti, 24
-- 🏫 Faculty of Information Technology, Brno University of Technology
-- 👀 Interested in Data analysis, Machine Learning, Psychology, Neuroscience, Swimming, Bouldering, Cooking (pasta)
-- 🌱 Currently working on my master's thesis
-- 📖 Reading The Fall by Albert Camus
+- 👦 Andrea Chimenti, 25
+- 🏫 Recently graduated from Faculty of Information Technology, Brno University of Technology
+- 👀 Interested in Data analysis, Machine Learning, Psychology, Neuroscience, Swimming, Bouldering, Cooking (pasta), Reading
+- 🌱 Currently looking for new opportunities in Data Engineering and Machine Learning
+- 📖 Reading The Handmaid's Tale by Margaret Atwood
 
 
 <!---
